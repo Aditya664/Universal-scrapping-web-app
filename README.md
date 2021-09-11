@@ -1,6 +1,9 @@
 <h2 align="center"><u>Universal-scrapping-web-app</u></h2>
-
+<div align="center">
+    
 ![ scrap all types of data from the internet.](https://th.bing.com/th/id/OIP.DfBnVo2TK9hPoPyAIs-T5wHaEU?pid=ImgDet&rs=1)
+    
+</div>
 <h4 align="center">  scrap all types of data from the internet. </h4>
 
 <p align="center">
